@@ -1,0 +1,67 @@
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\StoreManagementSystem_Trung.exe.config
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\StoreManagementSystem_Trung.exe
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\StoreManagementSystem_Trung.pdb
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmAbout.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmAccountManagement.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmDashboard.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmOrderHistory.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.frmSales.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmCustomerManagement.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmEmployeeManagement.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmLogin.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmMain.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmProductManagement.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.Properties.Resources.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreMan.5883AE53.Up2Date
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.exe
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.pdb
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmChangePassword.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmCategoryManagement.resources
+C:\Users\Admin\Desktop\Bài Làm Ẩn Danh\bản nháp\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmSalesReport.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\StoreManagementSystem_Trung.exe.config
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\StoreManagementSystem_Trung.exe
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\StoreManagementSystem_Trung.pdb
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\BCrypt.Net-Next.dll
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Buffers.dll
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Memory.dll
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Numerics.Vectors.dll
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\BCrypt.Net-Next.xml
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Buffers.xml
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Memory.xml
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Numerics.Vectors.xml
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.csproj.AssemblyReference.cache
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.exe.config
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmAbout.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmAccountManagement.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmCategoryManagement.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmChangePassword.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmDashboard.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmOrderHistory.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.frmSales.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmCustomerManagement.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmEmployeeManagement.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmLogin.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmMain.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmProductManagement.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.GUI.frmSalesReport.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.Properties.Resources.resources
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.csproj.GenerateResource.cache
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.csproj.CoreCompileInputs.cache
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreMan.5883AE53.Up2Date
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.exe
+D:\ASM kỳ 5\StoreManagementSystem_Trung\StoreManagementSystem_Trung\obj\Debug\StoreManagementSystem_Trung.pdb
